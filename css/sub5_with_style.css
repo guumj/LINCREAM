@@ -276,13 +276,13 @@ body {
     height: 74px;
     display: flex;
     align-items: center;
-    flex-direction: column;/*추가*/
+    flex-direction: column;
     justify-content: center;
     font-size: 15px;
     line-height: 26.5px;
 }
 
-.process li p em{/*추가*/
+.process li p em{
     font-style: normal;
     display: block;
 }
